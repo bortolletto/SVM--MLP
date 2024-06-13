@@ -1,4 +1,12 @@
 # SVM--MLP
+EX2-prova teoria do aprendizado estatistico, comparação de SVM e NN
+
+A rotina de nome EX2 - prova 2 comparacao SVM E REDE NEURAL.ipynb corresponde a implementação utilizada. 
+
+
+
+#-----------------------#-------------------------------
+
 Atividade 6 - teoria do aprendizado estatistico, implementação de suport vector machines e perceptron 
 
 #Enunciado da Atividade
